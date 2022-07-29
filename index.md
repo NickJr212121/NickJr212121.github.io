@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Pet Ball: Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/NickJr212121/NickJr212121.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This privacy policy governs your use of the software application (“Pet Ball”) for mobile devices that was created by NickJr. The Application is an offline free-to-play game that is about passing the obstacles endlessly and customizing your character. 
 
-### Markdown
+I have not programmed this app to collect any personal data. All data preferences (like scores and etc) is stored only in your device and can be erased by uninstalling the app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app contains ads by Unity Ads (interstitial and rewarded ads) Unity Ads has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. 
 
-```markdown
-Syntax highlighted code block
+This app contains in game purchases that can be purchased through google play. 
 
-# Header 1
-## Header 2
-### Header 3
+If you find any security vulnerability that has been inadvertently caused by me, please send me an email and I will try my best to help you.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NickJr212121/NickJr212121.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dodo_nicart@yahoo.com
+ 
