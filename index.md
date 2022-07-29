@@ -9,6 +9,8 @@ This app contains ads by Unity Ads (interstitial and rewarded ads) Unity Ads has
 
 This app contains in game purchases that can be purchased through google play. 
 
+You have the option to opt-out to stop any automate collected data from ads unity and in-game purchases.           
+
 If you find any security vulnerability that has been inadvertently caused by me, please send me an email and I will try my best to help you.
 
 Dodo_nicart@yahoo.com
