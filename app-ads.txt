@@ -4,6 +4,7 @@ ironsrc.com, 445469, DIRECT
 Xandr.com, 16546, RESELLER
 aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
 lacunads.com, LCb555b3bc8667a09a, RESELLER
+appads.in, 106246, RESELLER
 conversantmedia.com, 100863, RESELLER, 03113cd04947736d
 conversantmedia.com, 100396, RESELLER, 03113cd04947736d
 conversantmedia.com, 100569, RESELLER, 03113cd04947736d
