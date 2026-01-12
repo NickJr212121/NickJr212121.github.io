@@ -313,7 +313,6 @@ aceex.io, 1926, RESELLER, b1cf3c874d5c6682
 eliteappgrade.com, 494223, RESELLER
 onlinemediasolutions.com, 23120, RESELLER
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
-tappx.com, w28579188, DIRECT, 9f375a07da0318ec
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 blueseasx.com, 203625, RESELLER
 triplelift.com, 14594, RESELLER, 6c33edb13117fd86
