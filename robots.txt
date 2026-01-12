@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://BameGames.github.io/Digital-Cortisol-Reset/sitemap.xml
+Sitemap: https://BameGames.github.io/sitemap.xml
