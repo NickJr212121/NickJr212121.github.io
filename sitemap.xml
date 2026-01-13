@@ -3,35 +3,36 @@
 
   <url>
     <loc>https://bamegames.github.io/</loc>
-    <lastmod>2026-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>https://bamegames.github.io/Digital-Cortisol-Reset/</loc>
-    <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://bamegames.github.io/Digital-Cortisol-Reset/low-stimulus-morning.html</loc>
-    <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://bamegames.github.io/Digital-Cortisol-Reset/adhd-rhythmic-focus.html</loc>
-    <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://bamegames.github.io/Digital-Cortisol-Reset/stop-doomscrolling-adhd.html</loc>
-    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bamegames.github.io/Digital-Cortisol-Reset/dopamine-menu-adhd.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
